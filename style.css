@@ -1,0 +1,18 @@
+.main_cotainer{
+  margin: 0;
+  padding: 0;
+  background:linear-gradient(to right, red , yellow, green, blue, purple);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.container{
+  background-color: rgba(red, green, blue, alpha);
+  padding: 30px;
+  border-radius: 10px;
+  
+}
